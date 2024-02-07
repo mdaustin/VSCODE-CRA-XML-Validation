@@ -8,3 +8,5 @@ $ mkdir Files
 ```
 
 3. Put your xml files to validate in the Files folder
+
+4. VS Code should now be able to validate your files against the .xsd files
