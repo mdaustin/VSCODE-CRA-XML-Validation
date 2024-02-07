@@ -3,6 +3,10 @@
     {
       "pattern": "**/files/*.xml",
       "systemId": "xmlschm1-24-1/layout-topologie.xsd"
+    },
+    {
+      "pattern": "**/files/*.xml",
+      "systemId": "xmlschm1-24-1/OL_layout-topologie.xsd"
     }
   ]
 }
