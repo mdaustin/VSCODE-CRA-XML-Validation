@@ -1,7 +1,7 @@
 {
   "xml.fileAssociations": [
     {
-      "pattern": "**/Files/*.xml",
+      "pattern": "**/files/*.xml",
       "systemId": "xmlschm1-24-1/layout-topologie.xsd"
     }
   ]
