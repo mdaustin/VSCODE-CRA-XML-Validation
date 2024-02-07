@@ -1,4 +1,4 @@
-#Usage
+# Usage
 1. Install VS-Code and XML extension by Red Hat 
 
 2. At the root of the project create a files folder.
